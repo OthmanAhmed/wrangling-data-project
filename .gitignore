@@ -2,3 +2,5 @@
 tweepy.csv
 resources/*
 saved_work*
+pics*
+.ipynb_*
